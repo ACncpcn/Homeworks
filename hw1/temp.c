@@ -14,7 +14,7 @@ int main()
 	{
 		celsius = (farenheit-32)*5/9;
 
-		printf("\t%d\t\t%d\n",farenheit,celsius);
+		printf("%9d%14d\n",farenheit,celsius);
 	}
 
 
