@@ -1,4 +1,7 @@
+
 #include <stdio.h>
+/*The following program converts Farenheit to celsuis
+in 10 degree increments and then displays them*/
 
 int main()
 {

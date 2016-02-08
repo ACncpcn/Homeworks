@@ -1,4 +1,6 @@
  #include <stdio.h>
+/*The following uses a function to display the number of characters
+in string str[]*/
 
 int stringlength(char string[]);
 
